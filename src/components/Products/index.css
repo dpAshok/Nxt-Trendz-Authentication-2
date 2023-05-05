@@ -1,0 +1,17 @@
+/* Write your CSS code here */
+
+.product_container {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 100vh;
+  margin: auto;
+  padding-top: 10px;
+  padding-bottom: 50px;
+  width: 90%;
+  max-width: 1110px;
+}
+
+.product_container img {
+  width: 300px;
+}
